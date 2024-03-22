@@ -32,7 +32,7 @@ This project implements a user registration and login system using HTML, CSS, Ja
 
 ## Result
 
- ![Result Image](<Screenshot (202).png>) ![Result Image](<Screenshot (203).png>) ![Result Image](<Screenshot (204).png>) ![Result Image](<Screenshot (205).png>) ![Result Image](<Screenshot (206).png>) ![Result Image](<Screenshot (207).png>) ![Result Image](<Screenshot (208).png>) ![Result Image](<Screenshot (209).png>) ![Result Image](<Screenshot (210).png>) ![Result Image](<Screenshot (211).png>) ![Result Image](<Screenshot (212).png>)
+See the assets folder for image reference.
 
 ## Contributing
 
